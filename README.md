@@ -40,8 +40,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**Smart Party Game Master**](https://github.com/Tahash44/GroupPlay) | Web platform that automates hosting in-person group games (e.g. Spy/Mafia) with fair role assignment and game-state management | Django, DRF, React, JWT |
-| **FormFlow** | Dynamic form builder and multi-step workflow management system | Django, DRF, PostgreSQL |
-| **MedQueue** | Online doctor appointment booking system with conflict-free scheduling | Django, DRF, Docker, OAuth2 |
+| [**FormFlow**](https://github.com/Tahash44/dynamic-form-flow) | Dynamic form builder and multi-step workflow management system | Django, DRF, PostgreSQL |
+| [**MedQueue**](https://github.com/Tahash44/MedQueue) | Online doctor appointment booking system with conflict-free scheduling | Django, DRF, Docker, OAuth2 |
 
 ---
 
