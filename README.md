@@ -47,7 +47,7 @@
 
 ### 📈 GitHub Stats
 
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahash44&show_icons=true&theme=default&hide_border=true)
+![Taha's GitHub stats](https://github-readme-stats.anuraghazra1.workers.dev/api?username=Tahash44&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahash44&layout=compact&hide_border=true)
 
 ---
